@@ -5,6 +5,7 @@ public class Controller {
 	Controller() {
 		System.out.println("¡¶πﬂ ªÏ∑¡¡‡");
 		System.out.println("¡¶πﬂ ªÏ∑¡¡‡22");
+		System.out.println("¡¶πﬂ ªÏ∑¡¡‡33");
 	}
 
 }
